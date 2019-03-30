@@ -48,3 +48,4 @@ nx.draw(S, node_size = 20) # visualize generated spanning tree
 plt.show()
 
 print(steps_per_node) # show how the running time increases towards the end of the algorithm
+print("Total average random walk steps per node added was %.1f" % (sum(steps_per_node) / len(steps_per_node)))
