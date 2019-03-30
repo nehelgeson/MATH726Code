@@ -1,4 +1,4 @@
-"""Aldous-Broder.py: A python demonstration of the Aldous-Broder algorithm for generating a random spanning tree."""
+"""Wilsons-Algorithm.py: A python demonstration of Wilson's algorithm for generating a random spanning tree."""
 __author__      = "Nathan Helgeson"
 
 import networkx as nx
